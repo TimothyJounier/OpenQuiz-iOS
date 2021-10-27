@@ -17,6 +17,7 @@
 		A5735DBA2727F2850073D89F /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5735DB92727F2850073D89F /* Question.swift */; };
 		A5735DBC2727F8CA0073D89F /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5735DBB2727F8CA0073D89F /* Game.swift */; };
 		A5735DBE2727F94B0073D89F /* QuestionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5735DBD2727F94B0073D89F /* QuestionManager.swift */; };
+		A5D8087C2728325B0059F58D /* QuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5D8087B2728325B0059F58D /* QuestionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		A5735DB92727F2850073D89F /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		A5735DBB2727F8CA0073D89F /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 		A5735DBD2727F94B0073D89F /* QuestionManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = QuestionManager.swift; path = ../../../../../../../Downloads/QuestionManager.swift; sourceTree = "<group>"; };
+		A5D8087B2728325B0059F58D /* QuestionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				A5735DA62727EFC60073D89F /* Main.storyboard */,
+				A5D8087B2728325B0059F58D /* QuestionView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 				A5735DA52727EFC60073D89F /* ViewController.swift in Sources */,
 				A5735DBC2727F8CA0073D89F /* Game.swift in Sources */,
 				A5735DBA2727F2850073D89F /* Question.swift in Sources */,
+				A5D8087C2728325B0059F58D /* QuestionView.swift in Sources */,
 				A5735DA12727EFC60073D89F /* AppDelegate.swift in Sources */,
 				A5735DA32727EFC60073D89F /* SceneDelegate.swift in Sources */,
 				A5735DBE2727F94B0073D89F /* QuestionManager.swift in Sources */,
